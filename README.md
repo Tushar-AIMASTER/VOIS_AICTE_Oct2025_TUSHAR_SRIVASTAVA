@@ -78,6 +78,14 @@ This analysis provides valuable insights into the Airbnb market in NYC, highligh
 2. Open `TUSHAR_SRIVASTAVA.ipynb` in Jupyter Notebook.
 3. Run cells sequentially to reproduce the analysis.
 
+## Intended End Users
+This project is primarily intended for:
+- Data analysts and data scientists interested in Airbnb market trends and rental property analysis.
+- Real estate professionals and investors seeking insights into property pricing and availability in New York City.
+- Airbnb hosts and property managers aiming to understand competitive dynamics and optimize their listings.
+- Researchers and students studying urban economics, hospitality, or data analysis techniques.
+- Anyone interested in exploratory data analysis (EDA) and visualization of real-world datasets.
+
 ## Files in Project
 - `TUSHAR_SRIVASTAVA.ipynb`: Main analysis notebook.
 - `1730285881-Airbnb_Open_Data.xlsx`: Dataset.
